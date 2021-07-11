@@ -1,6 +1,6 @@
 # Trivia application
 
-This is an app for users to swipe through an assortment of random trivia questions.
+This is an app that allows users to swipe through an assortment of random trivia questions.
 
 ## Demo
 
