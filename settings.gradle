@@ -1,0 +1,3 @@
+include ':scalinglib'
+include ':app'
+rootProject.name = "Trivia"

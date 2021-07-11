@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Trivia</string>
+
+    <!-- Standalone -->
+    <string name="question_number_text">Q</string>
+
+    <!-- Content descriptions -->
+    <string name="cd_navbar">navbar</string>
+    <string name="cd_logo">logo</string>
+    <string name="cd_question_number_card">question_number_card</string>
+    <string name="cd_question_card">question_card</string>
+    <string name="cd_button_true">button_true</string>
+    <string name="cd_button_false">button_false</string>
+    <string name="cd_button_prev">button_prev</string>
+    <string name="cd_button_next">button_next</string>
+
+    <!-- Snackbar messages -->
+    <string name="snackbar_correct_message">Correct!</string>
+    <string name="snackbar_incorrect_message">Incorrect!</string>
+</resources>
